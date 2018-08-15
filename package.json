@@ -16,6 +16,7 @@
     "babel-preset-env": "^1.7.0",
     "body-parser": "^1.18.3",
     "express": "^4.16.3",
+    "graphiql": "^0.11.11",
     "graphql": "^0.13.2",
     "graphql-tools": "^3.1.1",
     "nodemon": "^1.18.3"
